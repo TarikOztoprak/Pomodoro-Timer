@@ -10,3 +10,5 @@
 ## Uygulama Mimari Diyagramı
 ![mimari](https://github.com/TarikOztoprak/Pomodoro-Timer/blob/master/Uygulama%20Mimari%20Diyagram%C4%B1.png)
 
+## UX Tasarımı Diyagramı
+![ux](https://github.com/TarikOztoprak/Pomodoro-Timer/blob/master/UX%20Diagram.png)
